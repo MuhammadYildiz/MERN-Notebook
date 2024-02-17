@@ -1,2 +1,2 @@
 # MERN-Notebook
-MERN Notebook app with JWT
+MERN Stack Notebook app with JWT
